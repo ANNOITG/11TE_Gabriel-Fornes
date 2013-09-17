@@ -1,4 +1,0 @@
-Gabriel-Fornes
-==============
-
-Gabriels inlämningsmapp
